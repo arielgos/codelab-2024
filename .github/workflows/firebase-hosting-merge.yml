@@ -30,4 +30,4 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_CODELAB_2024 }}"
           channelId: live
-          projectId: codelab-2024
+          projectId: fir-2024-c22e8
